@@ -2,11 +2,20 @@
 <h1 align="center">Merhaba 👋, ben Semih</h1>
 <h3 align="center">Robotik ve Otomasyon Alanında Gelişim Gösteren Bir tekniker Adayı</h3>
 
-
-
 - 🔭 Şu anda **askeri amaçlı bir gözlem robotu** üzerinde çalışıyorum
 - 🌱 Öğrenmeye devam ediyorum: **Robotik, Gömülü Sistemler**
-- 📫 Bana ulaşmak için: ** [semihskr42@gmail.com] **
+- 📫 Bana ulaşmak için: **semihskr42@gmail.com**
+
+## 📚 Eğitim
+
+- **Karabük Üniversitesi** - Bilgisayar Teknolojisi
+- **Aydınlıkevler MTAL** - Bilişim Teknolojileri Yazılım Dalı
+
+## 🏆 Sertifikalar
+
+- **Udemy** - Atıl Samancıoğlu Etik Hacker Olma Kursu
+- **Techcareer.net** - Git ve GitHub Eğitimi
+- **BTK Akademi** - Temel Elektronik ve Robotiğe Giriş
 
 ## 🔧 Kullandığım Teknolojiler
 
@@ -55,4 +64,5 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram Profilim" height="30" width="40" />
   </a>
 </p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sem1hx1&label=Profil%20Görüntüleme&color=0e75b6&style=flat" alt="sem1hx1" /> </p>
