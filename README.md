@@ -1,6 +1,6 @@
 ![masterhead](https://media.licdn.com/dms/image/v2/D4D16AQE_pbAmfyT80A/profile-displaybackgroundimage-shrink_350_1400/B4DZd6Zh8xGUAc-/0/1750105203274?e=1760572800&v=beta&t=88e9EAxjncmTf913xzDFZQO6rtA6UycJQtCQdZmVkzo)
 <h1 align="center">Merhaba 👋, ben Semih</h1>
-<h3 align="center">Robotik ve Otomasyon Alanında Gelişim Gösteren Bir tekniker Adayı</h3>
+<h3 align="center">Robotik ve Yazılım Alanında Gelişim Gösteren Bir tekniker Adayı</h3>
 
 - 🔭 Şu anda **askeri amaçlı bir gözlem robotu** üzerinde çalışıyorum
 - 🌱 Öğrenmeye devam ediyorum: **Robotik, Gömülü Sistemler**
