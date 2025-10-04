@@ -2,22 +2,22 @@
 <h1 align="center">Merhaba 👋, ben Semih</h1>
 <h3 align="center">Robotik ve Yazılım Alanında Gelişim Gösteren Bir tekniker Adayı</h3>
 
-- 🔭 Şu anda "bir gözlem robotu" üzerinde çalışıyorum
-- 🌱 Kendimi geliştirdiğim alan: "Robotik, Gömülü Sistemler"
-- 📫 Bana ulaşmak için: "semihskr42@gmail.com"
+- Şu anda "bir gözlem robotu" üzerinde çalışıyorum
+- Kendimi geliştirdiğim alan: "Robotik, Gömülü Sistemler"
+- Bana ulaşmak için: "semihskr42@gmail.com"
 
-📚 Eğitim
+Eğitim
 
 - "Karabük Üniversitesi" - Bilgisayar Teknolojisi
 - "Aydınlıkevler MTAL" - Bilişim Teknolojileri Yazılım Dalı
 
-🏆 Sertifikalar
+Sertifikalar
 
 - "Udemy" - Atıl Samancıoğlu Etik Hacker Olma Kursu
 - "Techcareer.net" - Git ve GitHub Eğitimi
 - "BTK Akademi" - Temel Elektronik ve Robotiğe Giriş
 
-🔧 Kullandığım Teknolojiler
+Kullandığım Teknolojiler
 
 <p align="left">
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
@@ -40,7 +40,7 @@
   </a>
 </p>
 
-📊 GitHub İstatistiklerim
+GitHub İstatistiklerim
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sem1hx1&show_icons=true&locale=tr&layout=compact&theme=radical" alt="sem1hx1" />
@@ -54,7 +54,7 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sem1hx1&theme=radical" alt="sem1hx1" />
 </p>
 
-🌐 Sosyal Medya
+Sosyal Medya
 
 <p align="left">
   <a href="https://www.linkedin.com/in/semih-%c5%9feker/" target="blank">
