@@ -11,11 +11,7 @@ Eğitim
 - "Karabük Üniversitesi" - Bilgisayar Teknolojisi
 - "Aydınlıkevler MTAL" - Bilişim Teknolojileri Yazılım Dalı
 
-Sertifikalar
 
-- "Udemy" - Atıl Samancıoğlu Etik Hacker Olma Kursu
-- "Techcareer.net" - Git ve GitHub Eğitimi
-- "BTK Akademi" - Temel Elektronik ve Robotiğe Giriş
 
 Kullandığım Teknolojiler
 
