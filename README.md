@@ -3,7 +3,7 @@
 <h3 align="center">Robotik ve Yazılım Alanında Gelişim Gösteren Bir tekniker Adayı</h3>
 
 - Şu anda "bir gözlem robotu" üzerinde çalışıyorum
-- Kendimi geliştirdiğim alan: "Robotik, Gömülü Sistemler"
+- Kendimi geliştirdiğim alan: "Robotik Kodlama,Wep Geliştirme, Mobil Programlama, Siber Güvenlik"
 - Bana ulaşmak için: "semihskr42@gmail.com"
 
 Eğitim
